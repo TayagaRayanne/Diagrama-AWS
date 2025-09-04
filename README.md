@@ -3,7 +3,6 @@
 Diagrama de fluxo da AWS usando EC2, EBS e RDS.
 
 Visão Geral da Arquitetura:
-
 Este projeto utiliza uma arquitetura baseada na Amazon Web Services (AWS) para hospedar e gerenciar uma aplicação web. O diagrama de arquitetura ilustra a interação entre os principais serviços da AWS e o fluxo de dados na aplicação.
 
 Componentes da Arquitetura:
